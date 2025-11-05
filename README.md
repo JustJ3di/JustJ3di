@@ -55,12 +55,12 @@ Languages:
 
 ## ⚔️ Berserk Parallel
 
-| Skill     | Berserk Reference       | Napoli Essence          |
-|-----------|-------------------------|--------------------------|
-| C         | Guts’ strength          | Vesuvio’s raw power      |
-| C++       | Griffith’s strategy     | Napoli’s precision       |
-| Python    | Schierke’s adaptability | Ingenuity and flair      |
-| Java      | Casca’s resilience      | Spirito partenopeo       |
+| Skill     | Berserk Reference       |
+|-----------|-------------------------|
+| C         | Guts’ strength          | 
+| C++       | Griffith’s strategy     | 
+| Python    | Schierke’s adaptability | 
+| Java      | Casca’s resilience      |
 
 ---
 
