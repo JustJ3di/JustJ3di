@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=java" />
-  <img src="https://img.shields.io/badge/Go-cyan?style=flat-square&logo=go" />
 </p>
 
 ---
@@ -34,7 +33,6 @@ Languages:
   - C++ (For mastery of complexity, precise as Griffith's plans)
   - Python (For agility, like Serpico in a shadowy alley)
   - Java (Reliable as a fortress wall, yet flexible in battle)
-  - Go (Swift as a charging apostle)
 ```
 
 ---
@@ -57,7 +55,6 @@ Languages:
 | C++       | Griffith’s tactics |
 | Python    | Schierke’s spells  |
 | Java      | Casca’s resilience |
-| Go        | The Band's speed   |
 
 ---
 
