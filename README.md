@@ -60,7 +60,7 @@ Languages:
 
 ## 📊 Code Graph: Languages Used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&hide=jupyter%20notebook,cmake,Makefile,javascript,typescript,html,css&layout=compact&bg_color=161313&title_color=720000&text_color=dfdfdf)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&hide=jupyter%20notebook,shell,cmake,Makefile,javascript,typescript,html,css&layout=compact&bg_color=161313&title_color=720000&text_color=dfdfdf)
 
 _“No code is flawless. The journey is to learn, refactor, and persist.”_
 
