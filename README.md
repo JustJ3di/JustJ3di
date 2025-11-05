@@ -1,7 +1,7 @@
 <!-- Berserk Style GitHub Profile README for JustJ3di -->
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/7/7f/Berserk_vol01.png" width="160"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/en/7/7f/Berserk_vol01.png](https://www.pngegg.com/it/png-iobzk)" width="160"/>
 </p>
 
 <h1 align="center" style="color:#111;">
