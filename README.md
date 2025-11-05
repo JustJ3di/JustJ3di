@@ -39,4 +39,51 @@ Languages:
   - C++     → Abstraction and efficiency
   - Python  → Expressiveness and adaptability
   - Java    → Robustness and architectural discipline
+```
 
+---
+
+## ⚡ Core Competencies
+
+- 🏹 Systems programming and low-level software design  
+- 🕷️ Algorithmic problem solving and applied data structures  
+- 🔥 Performance optimization and resource management  
+- 💀 Automation and command-line workflows  
+- 🧠 Applied research in secure and efficient computing  
+
+---
+
+## ⚔️ Berserk Parallel
+
+| Skill     | Berserk Reference       | Napoli Essence          |
+|-----------|-------------------------|--------------------------|
+| C         | Guts’ strength          | Vesuvio’s raw power      |
+| C++       | Griffith’s strategy     | Napoli’s precision       |
+| Python    | Schierke’s adaptability | Ingenuity and flair      |
+| Java      | Casca’s resilience      | Spirito partenopeo       |
+
+---
+
+## 📊 Language Overview
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&hide=jupyter%20notebook,shell,cmake,Makefile,javascript,typescript,html,css&layout=compact&bg_color=161313&title_color=720000&text_color=dfdfdf)
+
+> _“No code is flawless. The path is to learn, refactor, and persist — like a craftsman honing his blade.”_
+
+---
+
+## 🛡️ Collaboration & Contact
+
+- 📜 [GitHub Repositories](https://github.com/JustJ3di?tab=repositories)  
+- ⚔️ Open to collaboration on system design, performance optimization, and security research  
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/8hCMulv4aF8AAAAC/guts-berserk.gif" height="140"/>
+</p>
+
+<p align="center">
+  <i>“The sword is my language. The code is my legacy.”<br>
+  <span style="font-size:smaller;color:#05668d;">— Forged in Napoli 🇮🇹</span></i>
+</p>
