@@ -1,79 +1,82 @@
-<!-- Berserk Style GitHub Profile README -->
+<!-- Berserk Style GitHub Profile README for JustJ3di -->
+
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/7/7f/Berserk_vol01.png" alt="Berserk Cover" width="180" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/7/7f/Berserk_vol01.png" width="160"/>
 </p>
 
-<h1 align="center" style="color:black;font-family:serif;">
-  ⚔️ JustJ3di ⚔️<br>
-  <span style="font-size:1.1em;letter-spacing:2px;">"Struggle is the only meaning" — Guts</span>
+<h1 align="center" style="color:#111;">
+  ⚔️ <span style="color:#720000;">JustJ3di</span> ⚔️
 </h1>
 
 <p align="center">
-  <b>Wandering through code as Guts traverses the dark world...</b>
-  <br>
-  <br>
-  <img src="https://readmanganato.com/cpanel/chapter_manga/ac928771f4d4af1cecaeb8fe91b3df01/chapter_1/1.jpg" alt="Berserk Panel" width="400"/>
+  <i>Swinging the sword of code across wild frontiers.</i><br>
+  <b>Languages wielded:</b> 
+  <img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c" />
+  <img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=java" />
+  <img src="https://img.shields.io/badge/Go-cyan?style=flat-square&logo=go" />
 </p>
 
 ---
-
-## ⚔️ About Me
-
-- 🩸 Software swordsman forging digital landscapes  
-- 🐉 I love manga (especially Berserk!)  
-- 🧭 Always striving, coding without end  
-- 💥 Languages: Python, JavaScript, TypeScript, Rust  
-- 🏰 Favorite Frameworks: Next.js, Node, React  
-- 🏹 Looking for a party of heroes (collaborators!)  
-- 📚 Manga recommendations welcome!
-
----
-
-## 🗡️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustJ3di&hide=prs,issues&show_icons=true&icon_color=8b0000&title_color=8b0000&text_color=222222&bg_color=fff5f5" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JustJ3di&theme=blood-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://media.tenor.com/Op_oFumwchQAAAAC/berserk.gif" height="160"/>
 </p>
 
-## 🏹 Skills
+---
+
+## 🗡️ My Arsenal
 
 ```yaml
 Languages:
-  - C
-  - C++
-  - Python
-  - Go
-
-
-Dev Tools:
-  - VS Code
-  - Docker
-  - Git
+  - C (For raw power, like the Dragonslayer sword)
+  - C++ (For mastery of complexity, precise as Griffith's plans)
+  - Python (For agility, like Serpico in a shadowy alley)
+  - Java (Reliable as a fortress wall, yet flexible in battle)
+  - Go (Swift as a charging apostle)
 ```
 
 ---
 
-## 📖 Berserk Moodboard
+## ⚡ Code Prowess
 
-- <img src="https://www.pngmart.com/files/22/Berserk-Guts-PNG-HD.png" height="44"/> Favorite protagonist: Guts  
-- <img src="https://media.tenor.com/lLJORsI7EQEAAAAC/berserk-casual.gif" height="44"/> Current arc: Coding Eclipse  
-- <img src="https://media.tenor.com/Op_oFumwchQAAAAC/berserk.gif" height="44"/> Dream Team: Code and Destiny
+- 🏹 Systems programming & low-level hacks  
+- 🕷️ Algorithmic battles and data sorcery  
+- 🔥 Performance optimization—no mercy, only speed  
+- 💀 Terminal commands wielded with Guts-like resolve  
+- 🏔️ Never afraid to dig into legacy code—“brand of sacrifice” style
 
 ---
 
-## ☠️ Contact
+## ⚔️ Berserk Moodboard
 
-- 🐦 [Twitter](https://twitter.com/your_handle)
-- 💼 [LinkedIn](https://linkedin.com/in/your_link)
-- 📩 Open to DMs and collabs!
+| Skill     | Parallel in Berserk|
+|-----------|--------------------|
+| C         | Guts' brute power  |
+| C++       | Griffith’s tactics |
+| Python    | Schierke’s spells  |
+| Java      | Casca’s resilience |
+| Go        | The Band's speed   |
+
+---
+
+## 📊 Code Graph: Languages Used
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&layout=compact&hide=javascript,typescript,html,css&bg_color=161313&title_color=720000&text_color=dfdfdf)
+
+_“No code is flawless. The journey is to learn, refactor, and persist.”_
+
+---
+
+## 🛡️ Contact & Collab
+
+- 📜 [My GitHub Repos](https://github.com/JustJ3di?tab=repositories)
+- 🩸 Issues, code duels, and party invites always welcome.
 
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/8hCMulv4aF8AAAAC/guts-berserk.gif" height="120"/>
-  <br><b>“Even if we painstakingly piece together something lost, it doesn't mean things will ever go back to how they were.”</b>
-  <br>
-  <i>Staying relentless, just like Guts.</i>
+  <img src="https://media.tenor.com/8hCMulv4aF8AAAAC/guts-berserk.gif" height="140"/>
 </p>
+<p align="center"><i>"The sword is my language. The code is my legacy."</i></p>
