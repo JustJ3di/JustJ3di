@@ -41,15 +41,11 @@
 
 ```yaml
 Languages:
+  - C
+  - C++
   - Python
-  - JavaScript
-  - TypeScript
-  - Rust
+  - Go
 
-Frameworks:
-  - Next.js
-  - Node.js
-  - React
 
 Dev Tools:
   - VS Code
