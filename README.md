@@ -84,6 +84,6 @@ Languages:
 </p>
 
 <p align="center">
-  <i>“The sword is my language. The code is my legacy.”<br>
-  <span style="font-size:smaller;color:#05668d;">— Forged in Napoli 🇮🇹</span></i>
+  <i>“I have no enemies.”<br>
+  <span style="font-size:smaller;color:#05668d;"> 🇮🇹 </span></i>
 </p>
