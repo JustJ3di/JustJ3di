@@ -66,7 +66,8 @@ Languages:
 
 ## 📈 Activity & Discipline
 
-[![JustJ3di's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustJ3di&theme=blue-green)](https://github.com/JustJ3di)
+[![JustJ3di's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustJ3di&show_icons=true&theme=transparent)
+
 ---
 
 ## 📊 Language Overview
