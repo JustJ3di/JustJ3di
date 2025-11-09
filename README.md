@@ -35,10 +35,10 @@ Education:
 Philosophy:
   - Precision, persistence, and southern creativity
 Languages:
-  - C       → Low-level control and performance
-  - C++     → Abstraction and efficiency
-  - Python  → Expressiveness and adaptability
-  - Java    → Robustness and architectural discipline
+  - C      
+  - C++    
+  - Python  
+  - Java   
 ```
 
 ---
