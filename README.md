@@ -66,14 +66,7 @@ Languages:
 
 ## 📈 Activity & Discipline
 
-<p align="center">
-    [![JustJ3di's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustJ3di&show_icons=true&theme=radical&hide_border=true&bg_color=161313&title_color=720000&text_color=dfdfdf)](https://github.com/JustJ3di)
-</p>
-
-<p align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=JustJ3di&theme=dark-plus&hide_border=true&background=161313&side_color=05668d&ring=720000&currStreakLabel=dfdfdf)](https://git.io/streak-stats)ts)
-</p>
-
+[![JustJ3di's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustJ3di)](https://github.com/JustJ3di)
 ---
 
 ## 📊 Language Overview
