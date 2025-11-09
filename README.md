@@ -53,20 +53,6 @@ Languages:
 
 ---
 
-## ⚔️ Berserk Parallel
-
-| Skill     | Berserk Reference       |
-|-----------|-------------------------|
-| C         | Guts’ strength          | 
-| C++       | Griffith’s strategy     | 
-| Python    | Schierke’s adaptability | 
-| Java      | Casca’s resilience      |
-
----
-
-
----
-
 ## 📊 Language Overview
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&hide=jupyter%20notebook,shell,cmake,Makefile,javascript,typescript,html,css&layout=compact&bg_color=161313&title_color=720000&text_color=dfdfdf)
