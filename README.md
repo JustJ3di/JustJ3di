@@ -71,7 +71,7 @@ Languages:
 </p>
 
 <p align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=JustJ3di&theme=dark-plus&hide_border=true&background=161313&side_color=05668d&ring=720000&currStreakLabel=dfdfdf)](https://git.io/streak-stats)
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=JustJ3di&theme=dark-plus&hide_border=true&background=161313&side_color=05668d&ring=720000&currStreakLabel=dfdfdf)](https://git.io/streak-stats)ts)
 </p>
 
 ---
