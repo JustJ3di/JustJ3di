@@ -43,15 +43,6 @@ Languages:
 
 ---
 
-## ⚡ Core Competencies
-
-- 🏹 Systems programming and low-level software design  
-- 🕷️ Algorithmic problem solving and applied data structures  
-- 🔥 Performance optimization and resource management  
-- 💀 Automation and command-line workflows  
-- 🧠 Applied research in secure and efficient computing  
-
----
 
 ## 📊 Language Overview
 
