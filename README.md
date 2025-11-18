@@ -46,7 +46,6 @@ Languages:
 
 ## 📊 Language Overview
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&hide=jupyter%20notebook,shell,VHDL,TeX,Batchfile,Assembly,cmake,Makefile,javascript,typescript,html,css&layout=compact&bg_color=161313&title_color=720000&text_color=dfdfdf)
 
 > _“No code is flawless. The path is to learn, refactor, and persist — like a craftsman honing his blade.”_
 
