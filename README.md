@@ -52,6 +52,8 @@ Languages:
 
 ---
 
+![Contributors](https://img.shields.io/github/contributors/OWNER/REPO)
+
 ## 🛡️ Collaboration & Contact
 
 - 📜 [GitHub Repositories](https://github.com/JustJ3di?tab=repositories)
