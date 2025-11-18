@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <i>Forging code with discipline and vision — from Naples to the world.</i><br>
+  <i>Forging code with discipline and vision — from Naples.</i><br>
   <span align="center" style="color:#05668d; font-weight:bold;">🎓 Master’s Degree in computer engineering, Università di Napoli “Federico II”</span><br>
   <b>Languages:</b> 
   <img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c" />
