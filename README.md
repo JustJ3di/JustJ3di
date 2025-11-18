@@ -57,11 +57,6 @@ Languages:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=JustJ3di&style=for-the-badge&color=720000" alt="Profile views"/>
-
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JustJ3di&show_icons=true&count_private=true&include_all_commits=true&bg_color=161313&title_color=720000&text_color=dfdfdf&icon_color=720000" height="170"/>
 
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=JustJ3di&theme=dark&background=161313&ring=720000&fire=720000&currStreakLabel=720000" height="170"/>
