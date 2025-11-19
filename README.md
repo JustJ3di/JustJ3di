@@ -57,7 +57,6 @@ Languages:
 ## 📈 GitHub Stats
 
 <p align="center">
-
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=JustJ3di&theme=dark&background=161313&ring=720000&fire=720000&currStreakLabel=720000" height="170"/>
 </p>
