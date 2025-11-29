@@ -72,8 +72,8 @@ Languages:
 
 ## 🛡️ Collaboration & Contact
 
-- 📜 [GitHub Repositories](https://github.com/JustJ3di?tab=repositories)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/emanuele-d-ajello-9079481ba/)
+- 📜 ![GitHub Repositories](https://github.com/JustJ3di?tab=repositories)
+- 🔗 ![LinkedIn](https://www.linkedin.com/in/emanuele-d-ajello-9079481ba/)
 - ⚔️ Open to collaboration on system design, performance optimization, and security research
 
 ---
