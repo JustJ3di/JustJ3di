@@ -38,31 +38,6 @@
     <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=java" alt="Java"/>
 </p>
 
----
-
-## 📈 GitHub Metrics & Philosophy
-
-### 📊 Panoramica Linguaggi
-
-> _“No code is flawless. The path is to learn, refactor, and persist — like a craftsman honing his blade.”_
-
-<p align="center">
-    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justj3di&layout=compact&size_weight=0&count_weight=1&theme=dark&bg_color=161313&border_color=720000&title_color=720000&icon_color=05668d)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
-### ⭐ Statistiche & Riconoscimenti
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JustJ3di&show_icons=true&theme=dark&bg_color=161313&border_color=720000&title_color=720000&icon_color=05668d&hide_border=true&include_all_commits=true" alt="JustJ3di GitHub Stats" />
-</p>
-
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=JustJ3di&theme=dark&background=161313&ring=720000&fire=720000&currStreakLabel=720000" height="170" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=JustJ3di&theme=onedark&row=1&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
-</p>
 
 ---
 
