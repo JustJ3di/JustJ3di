@@ -46,7 +46,7 @@ Languages:
 
 ## 📊 Language Overview
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&layout=compact&bg_color=161313&title_color=720000&text_color=dfdfdf)
+[![justj3di's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justj3di&layout=compact&size_weight=0&count_weight=1)](https://github.com/anuraghazra/github-readme-stats)
 
 > _“No code is flawless. The path is to learn, refactor, and persist — like a craftsman honing his blade.”_
 
