@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=java" alt="Java"/>
 </p>
 
-![Top Languages](https://raw.githubusercontent.com/JustJ3di/JustJ3di/master/profile-summary-card-output/default/2-most-commit-language.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di)](https://github.com/JustJ3di)
 
 
 ---
