@@ -38,16 +38,7 @@
     <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=java" alt="Java"/>
 </p>
 
-##  Top Languages 
 
-<p align="center">
-  <iframe 
-    src="https://JustJ3di.github.io/top-langs/" 
-    width="500" 
-    height="500"
-    style="border:none;overflow:hidden;"
-  ></iframe>
-</p>
 
 
 
