@@ -41,7 +41,7 @@
 
 ## ⚔️ Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&hide=javascript&hide=HTML&layout=compact&theme=dark&title_color=B30000&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&hide=javascript&HTML&layout=compact&theme=dark&title_color=B30000&text_color=FFFFFF" />
 </p>
 
 
