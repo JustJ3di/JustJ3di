@@ -26,7 +26,7 @@
 
 | Categoria | Dettagli |
 | :--- | :--- |
-| **Fondamenta** | C, C++, Python, Java |
+| **Fondamenta** | C, C++, Python, Java, Go |
 | **Focus** | System Design, Performance Optimization, Security Research |
 | **Istruzione** | Università degli Studi di Napoli “Federico II” |
 
@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=c%2B%2B" alt="C++"/>
     <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" alt="Python"/>
     <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=java" alt="Java"/>
-    <img src="https://img.shields.io/badge/Go-Blue?style=flat-square&logo=Go" alt="Go"/>
+    <img src="https://img.shields.io/badge/Go-azure?style=flat-square&logo=Go" alt="Go"/>
 </p>
 
 
