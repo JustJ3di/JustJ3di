@@ -42,9 +42,8 @@
 
 ## ⚔️ Top Languages
 <p align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&layout=pie)](https://github.com/JustJ3di/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&layout=pie&langs_count=5&hide=html,css,shell,javascript,typescript)](https://github.com/JustJ3di/github-readme-stats)
 </p>
-
 
 
 
