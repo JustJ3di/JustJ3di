@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-    <img src="https://media.tenor.com/Op_oFumwchQAAAAC/berserk.gif" height="160" alt="Guts from Berserk walking animation"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&layout=donut&hide=html,css,javascript,typescript,shell&theme=radical" alt="Statistiche Linguaggi" />
 </p>
 
 ---
