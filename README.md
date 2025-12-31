@@ -17,9 +17,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&layout=donut&hide=html,css,javascript,typescript,shell&theme=radical" alt="Statistiche Linguaggi" />
+    <img src="https://media.tenor.com/Op_oFumwchQAAAAC/berserk.gif" height="160" alt="Guts from Berserk walking animation"/>
 </p>
-
 ---
 
 ## 💻 Core Technical Stack
@@ -42,9 +41,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&layout=donut&langs_count=5&hide=html,css,scss,javascript,typescript,jupyter%20notebook,shell,tex,makefile,dockerfile&theme=radical" alt="JustJ3di Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&layout=compact&hide=html,css,javascript&langs_count=5&theme=radical" />
 </p>
-
 ---
 
 ## 🤝 Contatti & Collaborazione
