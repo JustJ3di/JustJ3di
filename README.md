@@ -39,11 +39,12 @@
     <img src="https://img.shields.io/badge/Go-azure?style=flat-square&logo=Go" alt="Go"/>
 </p>
 
+---
 
-## ⚔️ Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&layout=donut&langs_count=5&hide=html,css,scss,javascript,typescript,jupyter%20notebook,shell,tex,makefile,dockerfile&theme=radical" alt="JustJ3di Top Langs" />
 </p>
+
 ---
 
 ## 🤝 Contatti & Collaborazione
