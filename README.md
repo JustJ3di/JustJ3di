@@ -1,64 +1,61 @@
-<p align="center">
-    <img src="pngegg.png" width="160" alt="JustJ3di Berserk Logo"/>
-</p>
+<div align="center">
+  <img src="pngegg.png" width="150" alt="Logo JustJ3di" />
+  <h1>JustJ3di</h1>
+  
+  <p>
+    <i>"Forging code with discipline and vision — rooted in Naples."</i>
+  </p>
 
-<h1 align="center" style="color:#111;">
-    <span style="color:#720000;">JustJ3di</span> 
-</h1>
+  <p>
+    🎓 <b>Laurea Magistrale in Ingegneria Informatica</b><br>
+    Università degli Studi di Napoli "Federico II"
+  </p>
+</div>
 
-<p align="center">
-    <i>Forging code with discipline and vision — rooted in Naples.</i>
-</p>
-
-<p align="center">
-    <span style="color:#05668d; font-weight:bold;">🎓 Master’s Degree in Computer Engineering, Università di Napoli “Federico II”</span>
-</p>
+<div align="center">
+  <img src="https://media.tenor.com/Op_oFumwchQAAAAC/berserk.gif" height="120" alt="Guts Walking"/>
+</div>
 
 ---
-<p align="center">
-    <img src="https://media.tenor.com/Op_oFumwchQAAAAC/berserk.gif" height="160" alt="Guts from Berserk walking animation"/>
-</p>
+
+### 💻 Tech Stack & Arsenale
+
+<div align="center">
+
+| **Core Languages** | **Interessi & Focus** |
+| :---: | :---: |
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | **System Design**<br>**Performance Optimization**<br>**Security Research** |
+
+</div>
+
 ---
 
-## 💻 Core Technical Stack
+### 📊 GitHub Stats
 
-| Categoria | Dettagli |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&layout=compact&hide=html,css,javascript&langs_count=5&theme=radical&hide_border=true" alt="Statistiche Linguaggi" />
+</div>
+
+---
+
+### 🤝 Contatti & Collaborazione
+
+<div align="center">
+
+| Canale | Link |
 | :--- | :--- |
-| **Fondamenta** | C, C++, Python, Java, Go |
-| **Focus** | System Design, Performance Optimization, Security Research |
-| **Istruzione** | Università degli Studi di Napoli “Federico II” |
+| 📜 **Progetti** | [Visualizza le mie Repositories](https://github.com/JustJ3di?tab=repositories) |
+| 🔗 **LinkedIn** | [Emanuele D'Ajello](https://www.linkedin.com/in/emanuele-d-ajello-9079481ba/) |
+| ⚔️ **Collaborazione** | Aperto a progetti su **Low-Level Systems** & **HPC** |
 
-<p align="center">
-    <b>Languages:</b> 
-    <img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c" alt="C"/>
-    <img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=c%2B%2B" alt="C++"/>
-    <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" alt="Python"/>
-    <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=java" alt="Java"/>
-    <img src="https://img.shields.io/badge/Go-azure?style=flat-square&logo=Go" alt="Go"/>
-</p>
+</div>
 
----
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&layout=compact&hide=html,css,javascript&langs_count=5&theme=radical" />
-</p>
-
----
-
-## 🤝 Contatti & Collaborazione
-
-* 📜 **Repositories:** [Visualizza tutti i miei progetti su GitHub](https://github.com/JustJ3di?tab=repositories)
-* 🔗 **LinkedIn:** [Connettiti con me professionalmente](https://www.linkedin.com/in/emanuele-d-ajello-9079481ba/)
-* ⚔️ **Collaborazione:** Sono aperto a progetti incentrati su sistemi a basso livello e calcolo ad alte prestazioni.
-
----
-
-<p align="center">
-    <img src="https://media.tenor.com/8hCMulv4aF8AAAAC/guts-berserk.gif" height="140" alt="Guts turning his head"/>
-</p>
-
---
-<p align="center">
-    <i>“I have no enemies.”<br>
-    <span style="font-size:smaller;color:#05668d;"> 🇮🇹 </span></i>
-</p>
+<div align="center">
+  <img src="https://media.tenor.com/8hCMulv4aF8AAAAC/guts-berserk.gif" height="120" alt="Guts"/>
+  <br><br>
+  <i>"I have no enemies."</i>
+  <br>
+  <img src="https://img.shields.io/badge/Made%20in-Napoli-blue?style=flat-square&logo=map-marker-alt" alt="Napoli"/>
+</div>
