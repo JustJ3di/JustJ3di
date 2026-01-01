@@ -15,7 +15,6 @@
 </p>
 
 ---
-
 <p align="center">
     <img src="https://media.tenor.com/Op_oFumwchQAAAAC/berserk.gif" height="160" alt="Guts from Berserk walking animation"/>
 </p>
@@ -43,6 +42,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&layout=compact&hide=html,css,javascript&langs_count=5&theme=radical" />
 </p>
+
 ---
 
 ## 🤝 Contatti & Collaborazione
@@ -57,6 +57,7 @@
     <img src="https://media.tenor.com/8hCMulv4aF8AAAAC/guts-berserk.gif" height="140" alt="Guts turning his head"/>
 </p>
 
+--
 <p align="center">
     <i>“I have no enemies.”<br>
     <span style="font-size:smaller;color:#05668d;"> 🇮🇹 </span></i>
