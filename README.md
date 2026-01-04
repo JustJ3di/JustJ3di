@@ -46,7 +46,7 @@
 | :--- | :--- |
 | 📜 **Progetti** | [Visualizza le mie Repositories](https://github.com/JustJ3di?tab=repositories) |
 | 🔗 **LinkedIn** | [Emanuele D'Ajello](https://www.linkedin.com/in/emanuele-d-ajello-9079481ba/) |
-| ⚔️ **Collaborazione** | Aperto a progetti su **Low-Level Systems** & **HPC** |
+
 
 </div>
 
