@@ -30,11 +30,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### Languages
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&layout=compact&hide=html,css,javascript&langs_count=5&theme=radical&hide_border=true" alt="Statistiche Linguaggi" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ3di&stats_format=bytes)
 
 ---
 
